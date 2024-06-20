@@ -1,16 +1,16 @@
-h2[id="red"]{
+#red{
     color: red;
 }
-h2[id="blue"]{
+#blue{
     color: blue;
 }
-h2[id="orange"]{
+#orange{
     color: orange;
 }
-h2[id="green"]{
+#green{
     color: green;
 }
-h2[id="yellow"]{
+#yellow{
     color: yellow;
 }
 h2 {
