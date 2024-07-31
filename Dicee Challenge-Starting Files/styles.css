@@ -16,6 +16,8 @@ body {
 
 h1 {
   margin: 30px;
+  margin-top: -10px;
+  margin-bottom: -6px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
@@ -33,9 +35,17 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 5.7%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}
+.btn {
+  background-color: green;
+  color: #ffffff;
+  margin-top: 7%;
+  font-family: 'Lobster';
+  font-size: 3rem;
+  border-radius: 17px;
 }
